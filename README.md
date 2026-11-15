@@ -1,2 +1,5 @@
 # ColabMonkeytype
-Monkeytype but in Colab. Runs over the cloud and does not require internet access upon setting up. 
+Monkeytype but in Colab. 
+
+This repository is based off Monkeytype, an original project by miodec, and maintained by the contributors in https://github.com/monkeytypegame/monkeytype 
+
